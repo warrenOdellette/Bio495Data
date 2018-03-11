@@ -1,3 +1,20 @@
+ID   ZnOrCo
+FT   DOMAIN        1     40       NON CYTOPLASMIC.
+FT   TRANSMEM     41     62       
+FT   DOMAIN       63     70       CYTOPLASMIC.
+FT   TRANSMEM     71     89       
+FT   DOMAIN       90    100       NON CYTOPLASMIC.
+FT   TRANSMEM    101    121       
+FT   DOMAIN      122    134       CYTOPLASMIC.
+FT   TRANSMEM    135    156       
+FT   DOMAIN      157    200       NON CYTOPLASMIC.
+FT   TRANSMEM    201    227       
+FT   DOMAIN      228    333       CYTOPLASMIC.
+FT   TRANSMEM    334    355       
+FT   DOMAIN      356    366       NON CYTOPLASMIC.
+FT   TRANSMEM    367    387       
+FT   DOMAIN      388    472       CYTOPLASMIC.
+//
 ID   ZnOr40JI
 FT   DOMAIN        1     17       NON CYTOPLASMIC.
 FT   TRANSMEM     18     36       
