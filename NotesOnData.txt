@@ -1,0 +1,27 @@
+Notes
+H-Region, C-Region, N-Region was removed from the data (GPCRHMM)
+
+CfOr
+95
+98
+201
+219
+220
+221
+222
+236
+239
+254
+312
+321
+
+HsOr
+128
+220
+223
+224
+226
+234
+237
+296
+373
